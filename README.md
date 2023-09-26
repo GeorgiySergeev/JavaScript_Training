@@ -1,1 +1,1 @@
-Tamplete for JS PET projects
+Template for PET projects on Parcel build
